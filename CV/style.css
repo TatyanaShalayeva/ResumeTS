@@ -1,0 +1,33 @@
+body
+	{background:#e6e6e6;
+	color:2F4F4F;
+	font-family:sans-serif;
+	}
+h2
+	{font-size:20px;
+	text-align:right;
+	}
+h3
+	{font-size:17px;
+	text-align:left;
+	}
+h4
+	{font-size:14px;
+	font-style:oblique;
+	text-align:left;
+	}
+p#info
+	{font-size:12px;
+	text-align:right;
+	}
+p
+	{text-indent:10px;
+	font-size:12px;
+	text-align:left;
+	}
+li
+	{font-size:12px;
+	}
+#single
+	{margin:50px 200px 50px 200px;
+	}
